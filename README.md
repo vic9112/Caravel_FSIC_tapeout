@@ -1,4 +1,4 @@
-# T18 Chip Implementation - Caravel SoC with Integrated FSIC and Falcon
+# Working repository for Caravel-FSIC+PQC
 
 | File Structure | Description |
 | -------------- | ----------- |
